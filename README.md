@@ -1,4 +1,12 @@
 # Mr.Speaker Web App
-A web application for text to speech conversion with responsive design.
+> HTML CSS JavaScript
 
-to view visit: https://gouravsharmamrspeechapp.netlify.app
+
+A web application for text to speech conversion with responsive design.
+```js
+
+if(!speaking) {
+  console.log('Type your thoughts 😊.')
+  }
+```
+take a closer _look_ visit [Mr.speaker](https://gouravsharmamrspeechapp.netlify.app)
